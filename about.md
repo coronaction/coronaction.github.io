@@ -5,9 +5,17 @@ permalink: /about/
 ---
 
 [Service Description](#service-description)
+
+
 [Terms and Conditions of Website Use](#terms-and-conditions-of-website-use)
+
+
 [Data Sources](#data-sources)
+
+
 [Data Items](#data-items)
+
+
 [Countries in Scope](#countries-in-scope)
 
 [<img src="/images/coronaction-map.jpg">](https://www.coronaction.net/)
