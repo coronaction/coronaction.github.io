@@ -4,11 +4,16 @@ title: À propos de Coronaction
 permalink: /about-fr/
 ---
 
+*[link toward English version](/about/)*
+
+
 [Description du Service](#description-du-service)
-[Conditions d&#39;Utilisation du Site Web](#conditions-d-utilisation-du-site-web)
-[Sources de Données](#sources-de-donnees)
-[Éléments Spécifiques de Données](#sources-de-donnees)
-[Pays Analysés](#sources-de-donnees)
+[Conditions d&#39;Utilisation du Site Web](#conditions-dutilisation-du-site-web)
+[Sources de Données](#sources-de-données)
+[Éléments Spécifiques de Données](#éléments-spécifiques-de-données)
+[Pays Analysés](#pays-analysés)
+
+Cliquer les images ci-dessous pour aller vers le site
 
 [<img src="/images/coronaction-map.jpg">](https://www.coronaction.net/)
 [<img src="/images/coronaction-statistics.jpg">](https://www.coronaction.net/)

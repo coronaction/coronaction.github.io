@@ -4,11 +4,15 @@ title: About Coronaction
 permalink: /about/
 ---
 
+*[Lien vers la version française](/about-fr/)*
+
 1. [Service Description](#service-description)
 2. [Terms and Conditions of Website Use](#terms-and-conditions-of-website-use)
 3. [Data Sources](#data-sources)
 4. [Data Items](#data-items)
 5. [Countries in Scope](#countries-in-scope)
+
+Click on the images below to visit the site
 
 [<img src="/images/coronaction-map.jpg">](https://www.coronaction.net/)
 [<img src="/images/coronaction-statistics.jpg">](https://www.coronaction.net/)
