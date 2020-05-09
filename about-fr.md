@@ -7,11 +7,11 @@ permalink: /about-fr/
 *[link toward English version](/about/)*
 
 
-[Description du Service](#description-du-service)
-[Conditions d&#39;Utilisation du Site Web](#conditions-dutilisation-du-site-web)
-[Sources de Données](#sources-de-données)
-[Éléments Spécifiques de Données](#éléments-spécifiques-de-données)
-[Pays Analysés](#pays-analysés)
+1. [Description du Service](#description-du-service)
+2. [Conditions d&#39;Utilisation du Site Web](#conditions-dutilisation-du-site-web)
+3. [Sources de Données](#sources-de-données)
+4. [Éléments Spécifiques de Données](#éléments-spécifiques-de-données)
+5. [Pays Analysés](#pays-analysés)
 
 Cliquer les images ci-dessous pour aller vers le site
 
