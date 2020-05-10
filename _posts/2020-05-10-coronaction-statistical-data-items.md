@@ -5,6 +5,8 @@ title: Statistical data items reported by Coronaction
 
 [<img src="/images/coronaction-statistics.jpg">](https://www.coronaction.net/)
 
+**Click on the screenshot above if you want to see current data live on our website**
+
 Our page for statistics about the Covid-19 pandemic is quite rich for the approx. 200 countries that we cover. Let&#39;s review those data items in detail.
 
 For each item, remember that you can click on the top double arrows to sort the full array in ascending or descending order for each of data item that we collate. The column having a single arrow defines the current sort order (Confirmed cases – see details below – in descending order when you open the page first): if the simple arrow is going up, the column is sorted in ascending order. If it is going down, the column is sorted in descending order.
