@@ -19,14 +19,14 @@ avatar: https://blog.coronaction.net/images/coronaction-logo-with-earth.png
 footer-links:
   dribbble:
   email: coronaction.contact@gmail.com
-  facebook: https://www.facebook.com/coronaction.coronaction.1
+  facebook:
   flickr:
-  github: https://github.com/coronaction
+  github: coronaction
   instagram:
-  linkedin: https://www.linkedin.com/in/coronaction-2229011a9/
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/CoronactionT
+  twitter: coronactionN
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ google_analytics: UA-162051498-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https//blog.coronaction.net
+url: https//coronaction.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
