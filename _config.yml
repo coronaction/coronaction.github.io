@@ -74,10 +74,9 @@ sass:
 
 # Use the following plug-ins
 gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-sitemap 1.4.0 # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-stickyposts # make post sticky: true in headed  with stick in header - see https://github.com/ibrado/jekyll-stickyposts
-
+  
 # Exclude these files from your production _site
 exclude:
   - Gemfile
