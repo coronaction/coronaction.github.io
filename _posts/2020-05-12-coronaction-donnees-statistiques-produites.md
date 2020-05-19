@@ -3,20 +3,20 @@ layout: post
 title: Données statistiques produites par Coronaction
 ---
 
-[<img src="/images/coronaction-statistics.jpg">](https://www.coronaction.net/)
+[<img src="/images/statistiques-FR-2020-05-19.jpg">](https://www.coronaction.net/)
 
 **Cliquer sur la capture d&#39;écran ci-dessus pour accéder aux dernières données sur notre site web**
 
-Notre page de statistiques concernant la pandémie du Covid-19 fournit un vaste éventail de de données pour les 200 pays couverts. Passons-les en revue en détails.
+Notre page de statistiques concernant la pandémie du Covid-19 fournit un vaste éventail de données pour les quelques 200 pays couverts. Passons-les en revue en détails.
 
-Tout d&#39;abord pour chaque élément fourni, il est possible de cliquer sur les flèches en tête de colonne afin de trier toutes les lignes du tableau par ordre croissant ou décroissant selon cette donnée. La tête de colonne ne possédant qu&#39;une flèche indique la valeur de tri courante : les Cas Confirmés – voir détails ci-dessous – à l&#39;ouverture initiale de la page. Si cette flèche simple est orientée vers le haut l&#39;ordre de tri est croissant. Si elle pointe vers le bas de la page, l&#39;ordre de tri est alors décroissant.
+Tout d&#39;abord pour chaque élément fourni, il est possible de cliquer sur les flèches en tête de colonne afin de trier toutes les lignes du tableau par ordre croissant ou décroissant selon ce type de donnée. La tête de colonne ne possédant qu&#39;une flèche indique la valeur de tri courante : les Cas Confirmés – voir détails ci-dessous – à l&#39;ouverture initiale de la page. Si cette flèche simple est orientée vers le haut l&#39;ordre de tri est croissant. Si elle pointe vers le bas de la page, l&#39;ordre de tri est alors décroissant.
 
-Les données produites se présentent sous 2 formats, soit des triplets liés soit des cas par million, c&#39;est-à-dire une forme de densité de la métrique relative à la population (colonne à l&#39;extrême droite) :
+Les classes de données produites se présentent sous 2 formats, soit des triplets liés soit des cas par million, c&#39;est-à-dire une forme de densité de la métrique relative à la population (colonne à l&#39;extrême droite) :
 
 - Les triplets (présentés avec la même couleur):
   - Valeur courante du jour
   - Valeur de différence appelée &quot;Évolution du jour&quot; : elle montre la différence entre hier et aujourd&#39;hui pour la donnée considérée
-  - Une petite flèche de même couleur : si elle monte, cela signifie une augmentation de la valeur de différence entre hier et aujourd&#39;hui. Si elle diminue, alors l&#39;évolution du jour démontre une diminution du niveau de changement entre hier et aujourd&#39;hui par rapport à la même différence entre avant-hier et hier. Si elle reste horizontale, l&#39;évolution du niveau de changement a été identique dans les deux dernières périodes.
+  - Une petite flèche de même couleur : elle indique la tendance d&#39;évolution. Si elle monte, cela signifie une augmentation du niveau de changement, c&#39;est-à-dire de la valeur de différence entre hier et aujourd&#39;hui. Si elle diminue, alors l&#39;évolution du jour démontre une diminution du niveau de changement entre hier et aujourd&#39;hui par rapport à la même différence entre avant-hier et hier. Si elle reste horizontale, l&#39;évolution du niveau de changement a été identique dans les deux dernières périodes.
 
 .
 
@@ -24,10 +24,10 @@ Les données produites se présentent sous 2 formats, soit des triplets liés so
 
 Les triplets sont parfois un peu plus compliqués à appréhender initialement, prenons donc un exemple avec le monde entier en date du 9 Mai 2020 par exemple. Nous avons donc :
 
-- Cas confirmés : 4&#39;020&#39;917, 85&#39;811, flèche vers le haut. Le premier nombre de 4&#39;020&#39;917 indique donc le nombre total de cas officiellement confirmés depuis le début de la pandémie. Le second nombre de 85&#39;811 indique les cas confirmés nouveaux entre le 8 et le 9 Mai. La flèche ascendante indique alors que davantage de nouveaux cas ont été confirmés entre le 8 et le 9 qu&#39;entre le 7 et le 8 Mai. En résumé, cette flèche décrit donc une tendance haussière sur cette donnée sur la dernière journée.
-- Décès : 279&#39;205, 4&#39;411, flèche vers le bas. Le premier nombre définit les morts officiellement attribuées à la pandémie Covid-19 depuis son début. La seconde donnée recense 4&#39;411 décès dans les dernières 24 heures entre le 8 et le 9 Mai. La flèche vers le bas indique ensuite que moins de morts sont survenues dans cette période que dans la précédente.
+- Cas confirmés : 4&#39;020&#39;917, 85&#39;811, flèche vers le haut. Le premier nombre de 4&#39;020&#39;917 indique donc le nombre total de cas officiellement confirmés depuis le début de la pandémie. Le second nombre de 85&#39;811 indique les cas confirmés nouveaux entre le 8 et le 9 Mai. La flèche ascendante indique alors que davantage de nouveaux cas ont été confirmés entre le 8 et le 9 qu&#39;entre le 7 et le 8 Mai. En résumé, cette flèche décrit donc une tendance haussière de cette donnée sur la dernière journée.
+- Décès : 279&#39;205, 4&#39;411, flèche vers le bas. La première valeur définit le nombre de morts officiellement attribuées à la pandémie Covid-19 depuis son début. La seconde donnée recense 4&#39;411 décès dans les dernières 24 heures entre le 8 et le 9 Mai. La flèche vers le bas indique ensuite que moins de morts sont survenues dans cette période que dans la précédente.
 
-Pour parler en termes de physique, le premier nombre du triplet définit la « distance » parcourue par le virus durant l&#39;épidémie, le second définit sa vitesse de progression et la flèche indique l&#39;accélération. Donc, elle indique si la donnée en question a tendance à progresse plus ou moins vite que précédemment.
+Pour parler en termes de physique, le premier nombre du triplet définit la « distance » parcourue par le virus durant l&#39;épidémie, le second définit sa vitesse de progression et la flèche indique l&#39;accélération. Donc, elle indique si la donnée en question a tendance à progresser plus ou moins vite que précédemment.
 
 Maintenant, les différents types de données :
 
