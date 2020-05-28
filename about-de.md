@@ -66,7 +66,6 @@ Die aktuelle Liste der Quellen wird voraussichtlich im Rahmen der Erweiterung un
 - Beachten Sie, dass in Frankreich bestätigte Fälle für Regionen und Abteilungen berechnet werden, indem auf der Intensivstation hospitalisierte, zu Hause zurückgegebene und verstorbene Zahlen hinzugefügt werden. Beachten Sie auch, dass wir zu Hause zurückgekehrte Personen als wiederhergestellt betrachten.
 - Beachten Sie, dass für Australien und China die Ländernummern durch Summierung der aus JHU-Rohdaten erhaltenen Regionsnummern berechnet werden.
 - Beachten Sie, dass ECDC-Daten nur für Nummern auf den Inseln Guernsey und Jersey, Swasiland, Timor und Vatikan verwendet werden. Wir haben festgestellt, dass ECDC-Daten im Allgemeinen verzögert sind: Nummern aus anderen Quellen für ein bestimmtes Datum werden dem Tag zuvor oder manchmal 2 Tage zuvor zugewiesen.
--
 
 # Länder im Geltungsbereich
 
