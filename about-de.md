@@ -5,6 +5,7 @@ permalink: /about-de/
 ---
 
 *[Link toward english version](/about/)*
+
 *[Lien vers la version française](/about-fr/)*
 
 

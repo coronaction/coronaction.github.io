@@ -6,6 +6,8 @@ permalink: /about-fr/
 
 *[link toward English version](/about/)*
 
+*[link zur Deutschen Version](/about-de/)*
+
 
 1. [Description du Service](#description-du-service)
 2. [Conditions d&#39;Utilisation du Site Web](#conditions-dutilisation-du-site-web)
