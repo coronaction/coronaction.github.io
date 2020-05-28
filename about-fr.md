@@ -4,9 +4,9 @@ title: À propos de Coronaction
 permalink: /about-fr/
 ---
 
-*[link toward English version](/about/)*
+*[Link toward English version](/about/)*
 
-*[link zur Deutschen Version](/about-de/)*
+*[Link zur Deutschen Version](/about-de/)*
 
 
 1. [Description du Service](#description-du-service)

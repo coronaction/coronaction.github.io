@@ -6,7 +6,7 @@ permalink: /about/
 
 *[Lien vers la version française](/about-fr/)*
 
-*[link zur Deutschen Version](/about-de/)*
+*[Link zur Deutschen Version](/about-de/)*
 
 1. [Service Description](#service-description)
 2. [Terms and Conditions of Website Use](#terms-and-conditions-of-website-use)
